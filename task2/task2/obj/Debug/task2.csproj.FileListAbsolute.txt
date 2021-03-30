@@ -1,0 +1,10 @@
+E:\University\ООП\2 семестр\2 laba\task2\task2\bin\Debug\task2.exe.config
+E:\University\ООП\2 семестр\2 laba\task2\task2\bin\Debug\task2.exe
+E:\University\ООП\2 семестр\2 laba\task2\task2\bin\Debug\task2.pdb
+E:\University\ООП\2 семестр\2 laba\task2\task2\obj\Debug\task2.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\2 laba\task2\task2\obj\Debug\task2.Form1.resources
+E:\University\ООП\2 семестр\2 laba\task2\task2\obj\Debug\task2.Properties.Resources.resources
+E:\University\ООП\2 семестр\2 laba\task2\task2\obj\Debug\task2.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\2 laba\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\2 laba\task2\task2\obj\Debug\task2.exe
+E:\University\ООП\2 семестр\2 laba\task2\task2\obj\Debug\task2.pdb
