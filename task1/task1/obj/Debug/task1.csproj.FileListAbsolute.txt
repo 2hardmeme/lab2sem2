@@ -1,0 +1,7 @@
+E:\University\ООП\2 семестр\2 laba\task1\task1\bin\Debug\task1.exe.config
+E:\University\ООП\2 семестр\2 laba\task1\task1\bin\Debug\task1.exe
+E:\University\ООП\2 семестр\2 laba\task1\task1\bin\Debug\task1.pdb
+E:\University\ООП\2 семестр\2 laba\task1\task1\obj\Debug\task1.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\2 laba\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\2 laba\task1\task1\obj\Debug\task1.exe
+E:\University\ООП\2 семестр\2 laba\task1\task1\obj\Debug\task1.pdb
