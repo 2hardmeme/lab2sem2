@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lr2Task4\Lr2Task4\bin\Debug\Lr2Task4.exe.config
+C:\Users\user\source\repos\Lr2Task4\Lr2Task4\bin\Debug\Lr2Task4.exe
+C:\Users\user\source\repos\Lr2Task4\Lr2Task4\bin\Debug\Lr2Task4.pdb
+C:\Users\user\source\repos\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.exe
+C:\Users\user\source\repos\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.pdb
+E:\University\ООП\2 семестр\2 laba\Lr2Task4\Lr2Task4\bin\Debug\Lr2Task4.exe.config
+E:\University\ООП\2 семестр\2 laba\Lr2Task4\Lr2Task4\bin\Debug\Lr2Task4.exe
+E:\University\ООП\2 семестр\2 laba\Lr2Task4\Lr2Task4\bin\Debug\Lr2Task4.pdb
+E:\University\ООП\2 семестр\2 laba\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\2 laba\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\2 laba\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.exe
+E:\University\ООП\2 семестр\2 laba\Lr2Task4\Lr2Task4\obj\Debug\Lr2Task4.pdb

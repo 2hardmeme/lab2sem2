@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SharpWasher\SharpWasher\bin\Debug\SharpWasher.exe.config
+C:\Users\user\source\repos\SharpWasher\SharpWasher\bin\Debug\SharpWasher.exe
+C:\Users\user\source\repos\SharpWasher\SharpWasher\bin\Debug\SharpWasher.pdb
+C:\Users\user\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.exe
+C:\Users\user\source\repos\SharpWasher\SharpWasher\obj\Debug\SharpWasher.pdb
+E:\University\ООП\2 семестр\2 laba\SharpWasher\SharpWasher\bin\Debug\SharpWasher.exe.config
+E:\University\ООП\2 семестр\2 laba\SharpWasher\SharpWasher\bin\Debug\SharpWasher.exe
+E:\University\ООП\2 семестр\2 laba\SharpWasher\SharpWasher\bin\Debug\SharpWasher.pdb
+E:\University\ООП\2 семестр\2 laba\SharpWasher\SharpWasher\obj\Debug\SharpWasher.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\2 laba\SharpWasher\SharpWasher\obj\Debug\SharpWasher.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\2 laba\SharpWasher\SharpWasher\obj\Debug\SharpWasher.exe
+E:\University\ООП\2 семестр\2 laba\SharpWasher\SharpWasher\obj\Debug\SharpWasher.pdb
